@@ -57,6 +57,7 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "files.associations": {
     "stddef.h": "c",
-    "limits.h": "c"
+    "limits.h": "c",
+    "binary_trees.h": "c"
   }
 }
